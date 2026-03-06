@@ -133,19 +133,6 @@ Facility data is user-correctable via the issue reporting flow.
 
 ## V1 Scope
 
-## Build Roadmap
-
-| Phase | Focus | Timeline |
-|---|---|---|
-| 1 | Data foundation — seed Seattle facilities, schema, Supabase setup | Weeks 1–2 |
-| 2 | Map + search — map screen, sport filter, markers, detail screen skeleton | Weeks 3–4 |
-| 3 | Check-in system — geofencing, passive check-in, push notification flow, check-out | Weeks 5–7 |
-| 4 | Busyness layer — heatmap overlay, live counts, peak hours histogram, Popular Times baseline | Weeks 8–9 |
-| 5 | Profile + polish — player profile, session history, saved spaces, onboarding | Weeks 10–11 |
-| 6 | Beta — TestFlight + Play Store internal, Seattle testers, bug fixes, submission | Week 12 |
-
----
-
 ## Launch City
 
 GoPlay launches in **Seattle, WA**. Seattle has strong open parks data, high density of public sports facilities, and active year-round outdoor sports culture. All facility seeding, geofence calibration, and beta testing will be Seattle-focused before expanding.
